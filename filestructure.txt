@@ -1,0 +1,36 @@
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- src
+    |-- App.jsx
+    |-- components
+        |-- icons
+            |-- icon.png
+        |-- portfolio
+            |-- BentoGrid.jsx
+            |-- ContactSection.jsx
+            |-- Footer.jsx
+            |-- HeroSection.jsx
+            |-- MoreDropdown.jsx
+            |-- Navbar.jsx
+            |-- ProjectsShowcase.jsx
+            |-- SkillsSection.jsx
+        |-- ui
+            |-- button.jsx
+            |-- input.jsx
+            |-- textarea.jsx
+    |-- index.css
+    |-- main.jsx
+    |-- pages
+        |-- Attribution.jsx
+        |-- BookCall.jsx
+        |-- Connect.jsx
+        |-- Home.jsx
+        |-- Links.jsx
+        |-- Projects.jsx
+        |-- Uses.jsx
+    |-- utils
+        |-- index.js
+|-- tailwind.config.js
+|-- vite.config.js
